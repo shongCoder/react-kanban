@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kanban/static/js/main.cb5ebe69.js",
+    "index.html": "/kanban/index.html",
+    "main.cb5ebe69.js.map": "/kanban/static/js/main.cb5ebe69.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb5ebe69.js"
+  ]
+}
